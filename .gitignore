@@ -1,3 +1,4 @@
 *.ini
 *.pyc
 .ipynb_checkpoints/*
+*-copy*.ipynb
