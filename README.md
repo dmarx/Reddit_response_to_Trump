@@ -1,0 +1,1 @@
+Quantifying the Reddit community's response to US political turmoil following the election of Donald Trump
