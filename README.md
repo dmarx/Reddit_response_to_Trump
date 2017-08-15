@@ -1,6 +1,4 @@
-[**View the notebook on nbviewer**](http://nbviewer.jupyter.org/github/dmarx/Reddit_response_to_Trump/blob/master/Reddit%20Response%20to%20US%20Political%20Turmoil.ipynb)
-
-Or jump straight to the [final product](http://nbviewer.jupyter.org/github/dmarx/Reddit_response_to_Trump/blob/master/Reddit%20Response%20to%20US%20Political%20Turmoil.ipynb#chart) (i.e. the bottom of the notebook).
+This project constructs the following [report](http://nbviewer.jupyter.org/github/dmarx/Reddit_response_to_Trump/blob/master/The%20impact%20of%20significant%20events%20on%20Trump&apos;s%20approval%20ratings.ipynb). A detailed discussion of the methodology used to collect the data and construct the charts for that report can be found in this [notebook](http://nbviewer.jupyter.org/github/dmarx/Reddit_response_to_Trump/blob/master/Reddit%20Response%20to%20US%20Political%20Turmoil.ipynb). This latter notebook actually builds the charts for the former, so to reproduce this analysis run the "methodology" notebook first and then run the "report" notebook.
 
 NB: nbviewer caches rendered notebooks. It may be neessary to append `?flush_cache=true` to the URL to get the latest version of this notebook.
 
